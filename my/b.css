@@ -1,0 +1,12 @@
+
+body{
+    
+    background-image: url("bac.jpg");
+    font-size:  16px;
+    
+
+ul.nav.li{
+    padding: 0;
+    margin:0;
+    display:flex;
+}
